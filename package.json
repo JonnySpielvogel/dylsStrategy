@@ -1,0 +1,20 @@
+{
+  "name": "dyls-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dyls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^1.4.2",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "finnhub": "^1.2.1",
+    "log-to-file": "^2.0.2",
+    "moment": "^2.29.1",
+    "moving-averages": "^4.0.5"
+  }
+}
